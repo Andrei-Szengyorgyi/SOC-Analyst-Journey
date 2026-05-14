@@ -1,0 +1,25 @@
+# TryHackMe - Junior Security Analyst Intro
+
+## Overview
+An introductory room covering the role and responsibilities of a 
+Tier 1 SOC Analyst. Covers the structure of a typical SOC, the 
+tools used, and the day-to-day workflow of monitoring and triaging 
+security alerts.
+
+## Topics Covered
+- SOC tiers and the responsibilities one has as an analyst
+- The role of a SIEM tool in a SOC 
+- Basic alert triage 
+- Introduction to ticketing and escalation 
+
+## Key Takeaways
+- A Tier 1 analyst acts as the first line of defence, triaging 
+  alerts and escalating incidents
+
+
+## Reflection
+This room gave me a basic understanding of what day-to-day SOC work 
+looks like and confirmed this is the career path I want to pursue.
+
+## Date Completed
+14-05-2026
