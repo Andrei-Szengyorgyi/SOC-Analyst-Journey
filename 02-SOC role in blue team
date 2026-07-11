@@ -1,27 +1,22 @@
 # TryHackMe - SOC role in blue team
 
 ## Overview
-The room introduces the other people a SOC-analyst works alongside. 
-## Topics Covered
-- [Key topic or skill 1]
-- [Key topic or skill 2]
-- [Key topic or skill 3]
-- [Key topic or skill 4]
+A room that bulds on the prior one. it introduces you to the ecosystem around a SOC such as threat analysts,penetration tester and GRC auditor to name a few.
+it also expplains the roles of the differnt members with a team such as level 2 analysts ad soc managers.
 
+## Topics Covered
+- The hirarchy of a company 
+- the support roles around a SOC
+- The diffferent roles within a SOC 
+- The difference between working for one company vs a MSSP
 
 ## Key Takeaways
-- [What you learned and why it matters — aim for 3-4 points]
-- [Connect it to real SOC work where you can]
--
-
-## Reflection
-[Optional but valuable. A genuine sentence or two on what stood out
-or how it fits your goals. This is what makes a writeup feel real
-rather than mechanical.]
+- the different roles within a team so that i know who to do turn to
+- a MSSP might be a good option as a first job because it shows ability to work under pressure
 
 ## Difficulty
-[Beginner / Intermediate / Advanced]
+Beginner  
 
 ## Date Completed
-[YYYY-MM-DD]
+2026-07-10
 
