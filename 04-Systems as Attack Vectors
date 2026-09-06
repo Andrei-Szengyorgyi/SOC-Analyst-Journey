@@ -1,0 +1,25 @@
+# TryHackMe - Systems as Attack Vectors
+
+## Overview
+This room covers system attacks and potential vulnerabilities. It mentions human-led attacks such as rubber duckies, misconfigurations and software vulnerabilities. 
+The room also introduces the concept of CVE numbers and asks you to look up the number of a known vulnerability.  
+
+## Topics Covered
+- Human-led attacks
+- Software vulnerabilities
+- Misconfigurations and potential solutions
+- Supply chain vulnerabilities 
+
+## Key Takeaways
+- A SOC analyst always has to be informed about the latest exploits
+- Even software-based attacks are based on human negligence in the end 
+- There is a database of known exploits 
+
+## Reflection
+I believe that purely technical 
+
+## Difficulty
+[Beginner / Intermediate / Advanced]
+
+## Date Completed
+[YYYY-MM-DD]
